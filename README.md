@@ -10,7 +10,7 @@ https://docs.prod-cloud-ocb.orange-business.com/en-us/endpoint/index.html
 For API/CLI authentification you will need some informations:
 
 A Project ID (which can be project_id or tenant_id because project_id has the same meaning as tenant_id), your User Domain ID and your User Name. The steps are as follows:
-- Log in to the management console.  
+- Log in to the management console (https://console.prod-cloud-ocb.orange-business.com/console/#/home).  
 - Click the username and choose My Credential from the drop-down list.
   On the My Credential page, view project ID, domain ID and user name in the project list.
   
@@ -18,8 +18,10 @@ A Project ID (which can be project_id or tenant_id because project_id has the sa
 
 ## First steps 
 
-### Use CLI
+### Using CLI
 
-### Use Terraform
+### Using HEAT
 
-### Use HEAT
+### Using Terraform
+
+
