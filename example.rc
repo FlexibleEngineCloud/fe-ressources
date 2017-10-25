@@ -19,7 +19,6 @@ export OS_AUTH_URL=https://iam.eu-west-0.prod-cloud-ocb.orange-business.com/v3
 # With the addition of Keystone we have standardized on the term *tenant*
 # as the entity that owns the resources.
 export OS_PROJECT_ID= < OPENSTACK   PROJECT ID   HERE   >
-# export OS_TENANT_NAME="COMPUTE-15-09-15_12h46m36-b370acad-5ba7-11e5-ad8b-525400872571"
 export OS_USER_DOMAIN_ID= < SET   USER  DOMAIN   HERE   >
 
 # In addition to the owning entity (tenant), OpenStack stores the entity
