@@ -18,8 +18,10 @@ export OS_AUTH_URL=https://iam.eu-west-0.prod-cloud-ocb.orange-business.com/v3
 #
 # With the addition of Keystone we have standardized on the term *tenant*
 # as the entity that owns the resources.
-export OS_PROJECT_ID= < OPENSTACK   PROJECT ID   HERE   >
-export OS_USER_DOMAIN_ID= < SET   USER  DOMAIN   HERE   >
+export OS_PROJECT_NAME= < OPENSTACK   PROJECT NAME   HERE   >
+export OS_USER_DOMAIN_NAME= < SET   USER  DOMAIN   NAME   HERE   >
+export PROJECT_ID= < OPENSTACK   PROJECT ID   HERE   >
+export USER_DOMAIN_ID= < SET   USER  DOMAIN   HERE   >
 
 # In addition to the owning entity (tenant), OpenStack stores the entity
 # performing the action as the *user*.
